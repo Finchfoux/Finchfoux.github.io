@@ -1,1 +1,1 @@
-posts = '[{"header" : "Welcome message", "date" : "1638582290966", "image" : "images/wall.jpg", "body" : "Hello World"}],{ "header" : "Todays burger review", "date" : "63774224474751", "image" : "images/cat.png", "body" : "hello world"}]';
+posts = '[{"header" : "Welcome message", "date" : "1638582290966", "image" : "images/wall.jpg", "body" : "Hello World"}]';
