@@ -27,7 +27,7 @@ $(document).ready(function () {
 
         let _body = document.createElement("p");
         _body.className = "section-text";
-        _body.innerHTML = `<strong>${p[0].body}</strong>`;
+        _body.innerHTML = `<strong>${p[i].body}</strong>`;
 
         console.log(_body)
 
