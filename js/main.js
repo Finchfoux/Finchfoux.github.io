@@ -1,8 +1,8 @@
 $(document).ready(function () {
     var p = JSON.parse(posts);
 
-    console.log(p.length);
-    for (let i = 0; i < p.length; i++) {
+
+    for (let i = p.length-1; i >= 0; i--) {
         let main_div = document.createElement("div");
         main_div.className = "sections";
         main_div.id = `section-${i}`;
